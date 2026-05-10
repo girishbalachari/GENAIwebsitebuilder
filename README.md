@@ -1,2 +1,2 @@
-The website builder uses Gen-AI to build any website. You need to enter a prompt with your ideas, and the rest of the website builder will do the rest for you.
+Developed a Gen-AI-powered website builder using the MERN stack. Users describe their idea, and the AI instantly generates a fully functional website with one-click deployment. The platform features a credit-based system, Stripe payments, premium animations, and smooth UI. It uses OpenRouter for AI generation and Firebase for authentication.
 <img width="1787" height="536" alt="image" src="https://github.com/user-attachments/assets/649098ff-fbe7-43df-8d6a-1f33e0d34ec4" />
